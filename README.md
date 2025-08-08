@@ -177,3 +177,5 @@ Game probability models (e.g., dice or cards)
 Difference between joint, marginal, and conditional probabilities
 
 How to compute probabilities using Python
+
+Visualization of probability distribution functions
