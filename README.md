@@ -14,3 +14,6 @@ It demonstrates how to represent and analyze the probability of multiple random 
 
 
 Understand the concept of Joint Probability Distribution
+
+Represent probabilities for two or more random variables
+
