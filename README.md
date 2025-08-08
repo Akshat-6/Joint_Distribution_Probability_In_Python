@@ -168,3 +168,5 @@ Medical data (e.g., age vs blood pressure)
 
 Finance (e.g., market return vs individual stock return)
 
+Game probability models (e.g., dice or cards)
+
