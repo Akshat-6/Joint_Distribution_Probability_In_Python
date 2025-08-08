@@ -127,3 +127,4 @@ pip install -r requirements.txt
 
 3. Open the Jupyter notebook:
 
+jupyter notebook B2_28_AkshatS_P1_DL.ipynb
