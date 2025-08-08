@@ -140,3 +140,7 @@ Marginal probability plots
 
 
 📈 Visualizations Included
+
+
+✅ Joint Probability Matrix (Pandas DataFrame)
+
