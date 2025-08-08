@@ -166,3 +166,5 @@ Weather forecasting (e.g., temperature vs rainfall)
 
 Medical data (e.g., age vs blood pressure)
 
+Finance (e.g., market return vs individual stock return)
+
