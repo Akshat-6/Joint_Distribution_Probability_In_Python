@@ -179,3 +179,5 @@ Difference between joint, marginal, and conditional probabilities
 How to compute probabilities using Python
 
 Visualization of probability distribution functions
+
+Implementation of probabilistic concepts using real data structures
