@@ -122,3 +122,4 @@ cd joint-distribution-practical
 
 2. Install requirements:
 
+pip install -r requirements.txt
