@@ -136,4 +136,6 @@ Joint Probability Table for two discrete variables
 
 Heatmap visualization of joint distribution
 
+Marginal probability plots
+
 
