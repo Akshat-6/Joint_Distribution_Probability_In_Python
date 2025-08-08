@@ -31,3 +31,5 @@ Conditional probabilities
 
 Visualize relationships using heatmaps, bar plots, and distribution plots
 
+Explore marginal and conditional probabilities
+
