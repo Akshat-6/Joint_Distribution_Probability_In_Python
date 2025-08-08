@@ -76,3 +76,7 @@ P(X=x,Y=y)
 | **Conditional Probability** | Probability of one event given another                  |
 | **Independence Check**      | If `P(X,Y) = P(X) * P(Y)`, then X and Y are independent |
 | **Visualization**           | Heatmaps, bar plots, 3D surface plots                   |
+
+
+
+📂 Features
