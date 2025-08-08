@@ -189,3 +189,6 @@ Foundational building block for Bayesian Networks, Naive Bayes, Statistical Mode
 
 
 💡 Future Enhancements
+
+
+Extend to continuous distributions using Kernel Density Estimation (KDE)
