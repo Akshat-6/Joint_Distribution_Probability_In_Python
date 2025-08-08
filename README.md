@@ -132,3 +132,5 @@ jupyter notebook B2_28_AkshatS_P1_DL.ipynb
 
 📊 Sample Output
 
+Joint Probability Table for two discrete variables
+
