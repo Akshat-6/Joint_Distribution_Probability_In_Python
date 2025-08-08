@@ -89,3 +89,5 @@ Create joint probability tables
 Compute marginal and conditional probabilities
 
 Visualize distributions with Matplotlib and Seaborn
+
+Validate theoretical concepts with Python implementation
