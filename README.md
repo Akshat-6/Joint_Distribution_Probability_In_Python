@@ -27,3 +27,7 @@ Marginal distributions
 
 Conditional probabilities
 
+
+
+Visualize relationships using heatmaps, bar plots, and distribution plots
+
