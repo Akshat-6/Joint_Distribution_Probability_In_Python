@@ -52,3 +52,9 @@ P(X=x,Y=y)=f(x,y)
 
 Marginal Distribution can be obtained by summing over one variable:
 
+
+P(X=x)= 
+y
+∑
+​
+ P(X=x,Y=y)
