@@ -172,3 +172,6 @@ Game probability models (e.g., dice or cards)
 
 
 🧠 Key Learnings & Takeaways
+
+
+Difference between joint, marginal, and conditional probabilities
