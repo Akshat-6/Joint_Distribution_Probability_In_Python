@@ -160,3 +160,7 @@ sns.heatmap(joint_prob_df, annot=True, cmap='Blues')
 
 
 📊 Applications of Joint Distribution
+
+
+Weather forecasting (e.g., temperature vs rainfall)
+
