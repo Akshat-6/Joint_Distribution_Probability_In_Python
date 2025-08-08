@@ -102,3 +102,6 @@ joint-distribution-practical/
 └── requirements.txt               # Python dependencies
 
 💻 Tech Stack
+
+Python
+
