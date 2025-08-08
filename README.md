@@ -21,3 +21,5 @@ Represent probabilities using a 2D table or matrix
 
 Compute:
 
+Joint probabilities
+
