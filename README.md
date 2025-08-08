@@ -148,3 +148,5 @@ Marginal probability plots
 
 ✅ Marginal Histograms
 
+✅ Conditional Probability Tables
+
