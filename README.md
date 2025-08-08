@@ -25,3 +25,5 @@ Joint probabilities
 
 Marginal distributions
 
+Conditional probabilities
+
