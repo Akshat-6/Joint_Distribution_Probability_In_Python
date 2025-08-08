@@ -112,3 +112,6 @@ Pandas – structured representation of distributions
 Matplotlib / Seaborn – visualization of distributions
 
 🚀 How to Run
+
+
+1.Clone the repository:
