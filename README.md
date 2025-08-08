@@ -80,3 +80,6 @@ P(X=x,Y=y)
 
 
 📂 Features
+
+
+Define sample space and probabilities
