@@ -105,3 +105,6 @@ joint-distribution-practical/
 
 Python
 
+NumPy – probability tables & calculations
+
+
