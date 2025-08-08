@@ -196,3 +196,5 @@ Extend to continuous distributions using Kernel Density Estimation (KDE)
 Add real dataset for joint analysis (e.g., iris, titanic, or custom CSV)
 
 Build interactive visualizations using Plotly or Altair
+
+Add a comparison of independent vs dependent distributions
