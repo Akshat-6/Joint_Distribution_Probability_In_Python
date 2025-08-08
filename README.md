@@ -10,3 +10,4 @@ This project provides a practical introduction to Joint Probability Distribution
 
 It demonstrates how to represent and analyze the probability of multiple random variables occurring together, along with visualizations for better understanding.
 
+🎯 Objective
