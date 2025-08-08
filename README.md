@@ -94,3 +94,10 @@ Validate theoretical concepts with Python implementation
 
 
 📁 Project Structure
+
+
+joint-distribution-practical/
+├── B2_28_AkshatS_P1_DL.ipynb      # Jupyter notebook implementation
+├── README.md                      # Project documentation
+└── requirements.txt               # Python dependencies
+
