@@ -85,3 +85,5 @@ P(X=x,Y=y)
 Define sample space and probabilities
 
 Create joint probability tables
+
+Compute marginal and conditional probabilities
