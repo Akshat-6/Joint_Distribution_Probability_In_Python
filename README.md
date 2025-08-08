@@ -44,3 +44,7 @@ If
 X and 
 𝑌
 Y are random variables:
+
+
+
+P(X=x,Y=y)=f(x,y)
