@@ -155,3 +155,4 @@ Marginal probability plots
 
 Sample:
 
+sns.heatmap(joint_prob_df, annot=True, cmap='Blues')
