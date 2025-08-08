@@ -39,3 +39,8 @@ Explore marginal and conditional probabilities
 
 Joint Distribution defines the probability of two (or more) random variables occurring simultaneously.
 
+If 
+𝑋
+X and 
+𝑌
+Y are random variables:
