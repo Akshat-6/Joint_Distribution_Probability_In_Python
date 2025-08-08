@@ -69,3 +69,10 @@ P(X=x,Y=y)
 🔹 Key Concepts Covered
 
 
+| Concept                     | Explanation                                             |
+| --------------------------- | ------------------------------------------------------- |
+| **Joint Probability**       | Probability of two events occurring together            |
+| **Marginal Probability**    | Sum of joint probabilities across rows/columns          |
+| **Conditional Probability** | Probability of one event given another                  |
+| **Independence Check**      | If `P(X,Y) = P(X) * P(Y)`, then X and Y are independent |
+| **Visualization**           | Heatmaps, bar plots, 3D surface plots                   |
