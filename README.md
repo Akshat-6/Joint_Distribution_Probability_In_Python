@@ -194,3 +194,5 @@ Foundational building block for Bayesian Networks, Naive Bayes, Statistical Mode
 Extend to continuous distributions using Kernel Density Estimation (KDE)
 
 Add real dataset for joint analysis (e.g., iris, titanic, or custom CSV)
+
+Build interactive visualizations using Plotly or Altair
