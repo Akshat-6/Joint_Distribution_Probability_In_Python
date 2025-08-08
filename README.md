@@ -150,3 +150,5 @@ Marginal probability plots
 
 ✅ Conditional Probability Tables
 
+✅ 3D surface plots (optional)
+
