@@ -6,3 +6,7 @@ Practical demonstration of joint probability distribution with visualizations an
 
 
 This project provides a practical introduction to Joint Probability Distribution using Python. 
+
+
+It demonstrates how to represent and analyze the probability of multiple random variables occurring together, along with visualizations for better understanding.
+
