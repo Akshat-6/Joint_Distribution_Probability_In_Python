@@ -107,6 +107,7 @@ Python
 
 NumPy – probability tables & calculations
 
-
 Pandas – structured representation of distributions
+
+Matplotlib / Seaborn – visualization of distributions
 
