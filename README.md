@@ -146,3 +146,5 @@ Marginal probability plots
 
 ✅ Heatmaps using Seaborn
 
+✅ Marginal Histograms
+
