@@ -108,3 +108,5 @@ Python
 NumPy – probability tables & calculations
 
 
+Pandas – structured representation of distributions
+
