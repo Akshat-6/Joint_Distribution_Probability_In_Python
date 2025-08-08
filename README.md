@@ -152,3 +152,6 @@ Marginal probability plots
 
 ✅ 3D surface plots (optional)
 
+
+Sample:
+
