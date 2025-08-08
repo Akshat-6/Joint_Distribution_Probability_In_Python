@@ -83,3 +83,5 @@ P(X=x,Y=y)
 
 
 Define sample space and probabilities
+
+Create joint probability tables
