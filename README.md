@@ -62,3 +62,7 @@ y
 
 Conditional Distribution:
 
+P(X=x∣Y=y)= 
+P(Y=y)
+P(X=x,Y=y)
+​
