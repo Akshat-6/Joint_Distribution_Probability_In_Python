@@ -118,3 +118,7 @@ Matplotlib / Seaborn – visualization of distributions
 
 git clone https://github.com/yourusername/joint-distribution-practical
 cd joint-distribution-practical
+
+
+2. Install requirements:
+
