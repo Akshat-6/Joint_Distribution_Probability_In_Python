@@ -17,3 +17,5 @@ Understand the concept of Joint Probability Distribution
 
 Represent probabilities for two or more random variables
 
+Represent probabilities using a 2D table or matrix
+
