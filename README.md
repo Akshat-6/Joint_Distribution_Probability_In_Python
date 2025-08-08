@@ -58,3 +58,7 @@ y
 ∑
 ​
  P(X=x,Y=y)
+
+
+Conditional Distribution:
+
