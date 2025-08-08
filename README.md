@@ -37,3 +37,5 @@ Explore marginal and conditional probabilities
 
 📚 Theoretical Background
 
+Joint Distribution defines the probability of two (or more) random variables occurring simultaneously.
+
