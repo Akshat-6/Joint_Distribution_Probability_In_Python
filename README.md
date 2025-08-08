@@ -23,3 +23,5 @@ Compute:
 
 Joint probabilities
 
+Marginal distributions
+
