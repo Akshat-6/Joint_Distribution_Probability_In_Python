@@ -114,4 +114,7 @@ Matplotlib / Seaborn – visualization of distributions
 🚀 How to Run
 
 
-1.Clone the repository:
+1. Clone the repository:
+
+git clone https://github.com/yourusername/joint-distribution-practical
+cd joint-distribution-practical
