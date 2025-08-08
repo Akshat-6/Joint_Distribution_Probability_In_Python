@@ -164,3 +164,5 @@ sns.heatmap(joint_prob_df, annot=True, cmap='Blues')
 
 Weather forecasting (e.g., temperature vs rainfall)
 
+Medical data (e.g., age vs blood pressure)
+
