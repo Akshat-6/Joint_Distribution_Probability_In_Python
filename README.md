@@ -134,3 +134,6 @@ jupyter notebook B2_28_AkshatS_P1_DL.ipynb
 
 Joint Probability Table for two discrete variables
 
+Heatmap visualization of joint distribution
+
+
