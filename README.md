@@ -144,3 +144,5 @@ Marginal probability plots
 
 ✅ Joint Probability Matrix (Pandas DataFrame)
 
+✅ Heatmaps using Seaborn
+
